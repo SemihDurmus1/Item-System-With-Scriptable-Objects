@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - KoridorBlack
+  - infoPanel
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - ZeminLayer
+  - Water
+  - UI
+  - Room1Layer
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Zemin
+    uniqueID: 1119159717
+    locked: 0
+  - name: Nesneler
+    uniqueID: 2490834687
+    locked: 0
+  - name: Dekorasyon
+    uniqueID: 3755782367
+    locked: 0
+  - name: Player
+    uniqueID: 3276551427
+    locked: 0
+  - name: TopNesneler
+    uniqueID: 2462469503
+    locked: 0

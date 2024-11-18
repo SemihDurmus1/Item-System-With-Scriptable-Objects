@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 097a8702d1082324ba8a634d861e1926
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - recipeSlotPrefab: {fileID: 8639533496383069157, guid: d16eeb0c6f43990428e6afafa8a50eac, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
